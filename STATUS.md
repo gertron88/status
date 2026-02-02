@@ -69,7 +69,7 @@ Working on AgentVault and infrastructure improvements.
 | Tool | Status | GitHub | Description |
 |------|--------|--------|-------------|
 | **AgentVault** | ✅ v0.1 | [repo](https://github.com/gertron88/agentvault) | Treasury & portfolio management |
-| **AgentRouter** | ✅ v0.1 | [repo](https://github.com/gertron88/agentrouter) | Smart model selection for cost optimization |
+| **AgentRouter** | ✅ v0.2 | [repo](https://github.com/gertron88/agentrouter) | Smart model routing (21 models, 6 providers) |
 | **AgentRelay** | 💡 Next | — | Agent-to-agent messaging protocol |
 | **AgentReputation** | 💡 Idea | — | Trust/reliability scoring system |
 | **AgentHealth** | 💡 Idea | — | Uptime & error monitoring |
